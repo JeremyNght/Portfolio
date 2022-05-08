@@ -430,8 +430,8 @@ section {
 --------------------------------------------------------------*/
 
 .img-size {
-  height: 20vh;
-  width: 30vh;
+  height: 23vh;
+  width: 35vh;
   cursor: pointer;
   -webkit-transform: scale(1);
   transform: scale(1);
@@ -440,8 +440,8 @@ section {
 }
 
 .img-size:hover {
-  height: 20vh;
-  width: 32vh;
+  height: 23vh;
+  width: 35vh;
   -webkit-transform: scale(1.3);
   transform: scale(1.3);
 }

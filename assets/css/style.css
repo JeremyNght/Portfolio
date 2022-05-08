@@ -572,8 +572,8 @@ section {
 .cards {
   position: relative;
   display: block;
-  height: 26vh;
-  width: 26vh;
+  height: 100%;
+  width: 85%;
   border-radius: calc(var(--curve) * 1px);
   overflow: hidden;
   text-decoration: none;
